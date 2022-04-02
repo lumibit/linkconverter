@@ -1,8 +1,8 @@
 ---
 name: Test license request
 about: You are interested?
-title: ''
-labels: ''
+title: 'Test license request'
+labels: 'test-license'
 assignees: ''
 
 ---
