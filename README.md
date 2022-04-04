@@ -12,11 +12,11 @@ Use Windows style Links on macOS.
 
 <hr>
 <p align="center">
-    <a href="## HOWTO">HowTo</a> • 
-    <a href="## APPSTORE">AppStore</a> • 
-    <a href="## NON APPSTORE">Non AppStore</a> • 
-    <a href="### LICENSE KEY">License Key</a> • 
-    <a href="## MDM">MDM</a>
+    <a href="#HOWTO">HowTo</a> • 
+    <a href="#APPSTORE">AppStore</a> • 
+    <a href="#NON APPSTORE">Non AppStore</a> • 
+    <a href="#LICENSE KEY">License Key</a> • 
+    <a href="#MDM">MDM</a>
     <!-- <a href="#EULA">Eula</a> -->
 </p>
 <hr />
