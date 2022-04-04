@@ -12,11 +12,11 @@ Use Windows style Links on macOS.
 
 <hr>
 <p align="center">
-    <a href="##HOWTO">HowTo</a> • 
-    <a href="##APPSTORE">AppStore</a> • 
-    <a href="##NON APPSTORE">Non AppStore</a> • 
-    <a href="###LICENSE KEY">License Key</a> • 
-    <a href="##MDM">MDM</a>
+    <a href="## HOWTO">HowTo</a> • 
+    <a href="## APPSTORE">AppStore</a> • 
+    <a href="## NON APPSTORE">Non AppStore</a> • 
+    <a href="### LICENSE KEY">License Key</a> • 
+    <a href="## MDM">MDM</a>
     <!-- <a href="#EULA">Eula</a> -->
 </p>
 <hr />
@@ -25,11 +25,16 @@ Use Windows style Links on macOS.
 LinkConverter makes it easy to use `\\server\folder` style links on your mac. All you need to do is to copy a Link to the Clipboard.
 
 ## HOWTO
-![](assets/howto1.gif)
+
 Copy Links from Text, `Microsoft Outlook` or everywhere else
 
-![](assets/howto2.gif)
-Share your network files directly with `Finder Integration`
+<img src="assets/howto1.gif" alt="drawing" width="600"/>   
+
+<br />
+
+Share your network files directly with `Finder Integration`  
+<img src="assets/howto2.gif" alt="drawing" width="600"/>   
+
 
 ---
 ## APPSTORE
@@ -57,8 +62,21 @@ The key will give you `7 days` to test all of LinkConverters features.
 Deployment of LinkConverter via various MDM Solutions is possible, fast and easy.
 You can use the `LinkConverter.pkg` file from this repository that is signed, packed and notarized for seamless work with Apple Gatekeeper.
 
-License Management can be done with a `.mobileconfig` or `.plist`. You can find an example in this repository.
+License Management can be done with a `.mobileconfig` or `.plist`.  
+A full example is available in `./mdm`.
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+        ...
+            <key>mcx_preference_settings</key>
+            <dict>
+                <key>managedLicense</key>
+                <string>YOURTOKEN</string>
+            </dict>
+        ...
+</plist>
+```
 
 > Please replace `YOURTOKEN` in the example `.plist` with your license key.
-
-
