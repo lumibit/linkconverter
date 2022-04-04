@@ -79,4 +79,4 @@ A full example is available in `./mdm`.
 </plist>
 ```
 
-> Please replace `YOURTOKEN` in the example `.plist` with your license key.
+> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key.
