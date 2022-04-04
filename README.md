@@ -14,8 +14,8 @@ Use Windows style Links on macOS.
 <p align="center">
     <a href="#HOWTO">HowTo</a> • 
     <a href="#APPSTORE">AppStore</a> • 
-    <a href="#NON\ APPSTORE">Non AppStore</a> • 
-    <a href="#LICENSE\ KEY">License Key</a> • 
+    <a href="#NONAPPSTORE">Non AppStore</a> • 
+    <a href="#LICENSEKEY">License Key</a> • 
     <a href="#MDM">MDM</a>
     <!-- <a href="#EULA">Eula</a> -->
 </p>
@@ -44,11 +44,11 @@ You can get LinkConverter on the AppStore
 [![](assets/appstore.png)](https://apps.apple.com/de/app/linkconverter/id1604758881)
 
 ---
-## NON APPSTORE
+## NONAPPSTORE
 
 If you like to get LinkConverter from outside the AppStore or if you are interested in large volume purchases, you can use a license key.  
 
-### LICENSE KEY
+### LICENSEKEY
 
 For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter grab a test license at
 
