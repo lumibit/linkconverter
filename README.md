@@ -28,12 +28,12 @@ LinkConverter makes it easy to use `\\server\folder` style links on your mac. Al
 
 Copy Links from Text, `Microsoft Outlook` or everywhere else
 
-<img src="assets/howto1.gif" alt="drawing" width="600"/>   
+<img src="assets/howto1.gif" alt="drawing" width="800"/>   
 
 <br />
 
 Share your network files directly with `Finder Integration`  
-<img src="assets/howto2.gif" alt="drawing" width="600"/>   
+<img src="assets/howto2.gif" alt="drawing" width="800"/>   
 
 
 ---
