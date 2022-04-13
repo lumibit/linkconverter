@@ -16,6 +16,11 @@
                                 <dict>
                                     <key>managedLicense</key>
                                     <string>YOURTOKEN</string>
+                                    <key>DriveLetterMapping</key>
+                                    <dict>
+                                        <key>D:</key>
+                                        <string>\\server\unc\folder</string>
+                                    </dict>
                                 </dict>
                             </dict>
                         </array>
