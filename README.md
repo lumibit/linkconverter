@@ -35,6 +35,10 @@ Copy Links from Text, `Microsoft Outlook` or everywhere else
 Share your network files directly with `Finder Integration`  
 <img src="assets/howto2.gif" alt="drawing" width="800"/>   
 
+---
+## DRIVELETTERMAPPING
+
+If you like, you can add config rules to map incoming Windows mounted links like `D:\folder` to your choice of UNC Link. This feature is also available via MDM config.  
 
 ---
 ## APPSTORE
@@ -74,9 +78,14 @@ A full example is available in `./mdm`.
             <dict>
                 <key>managedLicense</key>
                 <string>YOURTOKEN</string>
+                <key>DriveLetterMapping</key>
+                <dict>
+                    <key>D:</key>
+                    <string>\\server\unc\folder</string>
+                </dict>
             </dict>
         ...
 </plist>
 ```
 
-> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key.
+> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key and customize **`DriveLetterMapping`** Key as you like.
