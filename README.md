@@ -27,7 +27,7 @@ LinkConverter makes it easy to use `\\server\folder` style links on your mac. Al
 
 ## HOWTO
 
-Copy Links from Text, `Microsoft Outlook` or everywhere else
+Copy Links from Text, `Microsoft Outlook` or anywhere else
 
 <img src="assets/howto1.gif" alt="drawing" width="800"/>   
 
