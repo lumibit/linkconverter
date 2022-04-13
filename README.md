@@ -13,6 +13,7 @@ Use Windows style Links on macOS.
 <hr>
 <p align="center">
     <a href="#HOWTO">HowTo</a> • 
+    <a href="#DRIVELETTERMAPPING">Drive Letter Mapping</a> • 
     <a href="#APPSTORE">AppStore</a> • 
     <a href="#NONAPPSTORE">Non AppStore</a> • 
     <a href="#LICENSEKEY">License Key</a> • 
