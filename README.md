@@ -79,7 +79,7 @@ A full example is available in `./mdm`.
             <dict>
                 <key>managedLicense</key>
                 <string>YOURTOKEN</string>
-                <key>DriveLetterMapping</key>
+                <key>managedDriveLetterMapping</key>
                 <dict>
                     <key>D:</key>
                     <string>\\server\unc\folder</string>
