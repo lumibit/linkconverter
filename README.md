@@ -62,6 +62,19 @@ https://lumibit.atlassian.net/servicedesk/customer/portals
 The key will give you `7 days` to test all of LinkConverters features.
 
 ---
+## KERBEROS
+
+In the latest release, LinkConverter supports mounting favorite links:
+- after launch
+- after Apple Kerberos SSO Plugin finished connecting
+
+A mount can be triggered, once the system notification informs LinkConverter, that connection is established.  
+Notification: `com.apple.KerberosPlugin.ConnectionCompleted` 
+
+Reference:  
+https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf
+
+---
 ## MDM
 
 Deployment of LinkConverter via various MDM Solutions is possible, fast and easy.
