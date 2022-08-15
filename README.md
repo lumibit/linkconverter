@@ -51,13 +51,13 @@ You can get LinkConverter on the AppStore
 ---
 ## NONAPPSTORE
 
-If you like to get LinkConverter from outside the AppStore or if you are interested in large volume purchases, you can use a license key.  
+If you are interested in large volume purchases outside of the AppStore, you can use a license key for your company.  
 
-### LICENSEKEY
+### TOKEN
 
 For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter, grab a test license at
 
-https://lumibit.atlassian.net/servicedesk/customer/portals
+[Lumibit Customer Portal](https://lumibit.atlassian.net/servicedesk/customer/portals)
 
 The key will give you `30 days` to test all features.
 
