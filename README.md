@@ -55,11 +55,11 @@ If you like to get LinkConverter from outside the AppStore or if you are interes
 
 ### LICENSEKEY
 
-For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter grab a test license at
+For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter, grab a test license at
 
 https://lumibit.atlassian.net/servicedesk/customer/portals
 
-The key will give you `7 days` to test all of LinkConverters features.
+The key will give you `30 days` to test all features.
 
 ---
 ## KERBEROS
