@@ -1,5 +1,5 @@
 # LINKCONVERTER
-Use Windows style Links on macOS.  
+Use Windows style Links on macOS and open your files directly.  
 
 <br />  
 
