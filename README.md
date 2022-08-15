@@ -1,5 +1,5 @@
 # LINKCONVERTER
-Use Windows style Links on macOS and open your files directly.  
+Use Windows style Links on macOS.  
 
 <br />  
 
@@ -17,6 +17,7 @@ Use Windows style Links on macOS and open your files directly.
     <a href="#APPSTORE">AppStore</a> • 
     <a href="#NONAPPSTORE">Non AppStore</a> • 
     <a href="#LICENSEKEY">License Key</a> • 
+    <a href="#MOUNTPOINT">Mountpoint</a> • 
     <a href="#MDM">MDM</a>
     <!-- <a href="#EULA">Eula</a> -->
 </p>
@@ -51,15 +52,15 @@ You can get LinkConverter on the AppStore
 ---
 ## NONAPPSTORE
 
-If you are interested in large volume purchases outside of the AppStore, you can use a license key for your company.  
+If you like to get LinkConverter from outside the AppStore or if you are interested in large volume purchases, you can use a license key.  
 
-### TOKEN
+### LICENSEKEY
 
-For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter, grab a test license at
+For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter grab a test license at
 
-[Lumibit Customer Portal](https://lumibit.atlassian.net/servicedesk/customer/portals)
+https://lumibit.atlassian.net/servicedesk/customer/portals
 
-The key will give you `30 days` to test all features.
+The key will give you `7 days` to test all of LinkConverters features.
 
 ---
 ## KERBEROS
@@ -73,6 +74,17 @@ Notification: `com.apple.KerberosPlugin.ConnectionCompleted`
 
 Reference:  
 https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf
+
+---
+## MOUNTPOINT
+
+We are taking your privacy and the integrity of your files, folders and data seriously.
+LinkConverter has implemented the concept of [App Sandboxing](https://developer.apple.com/library/archive/documentation/Security/Conceptual/AppSandboxDesignGuide/AboutAppSandbox/AboutAppSandbox.html)
+
+LinkConverter mounts links at
+`/Users/.../Library/Containers/io.lumibit.mac.linkconverter/Data/Documents` followed by your file or folder.
+
+This is by design and even if you already have a mounted drive with the same path under `/Volumes`.
 
 ---
 ## MDM
