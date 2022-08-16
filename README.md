@@ -38,11 +38,6 @@ Share your network files directly with `Finder Integration`
 <img src="assets/howto2.gif" alt="drawing" width="800"/>   
 
 ---
-## DRIVELETTERMAPPING
-
-If you like, you can add config rules to map incoming Windows mounted links like `D:\folder` to your choice of UNC Link. This feature is also available via MDM config.  
-
----
 ## APPSTORE
 
 You can get LinkConverter on the AppStore
@@ -52,15 +47,12 @@ You can get LinkConverter on the AppStore
 ---
 ## NONAPPSTORE
 
-If you like to get LinkConverter from outside the AppStore or if you are interested in large volume purchases, you can use a license key.  
+Our Enterprise licenses use a license key. Please contact us for pricing and license conditions.  
+For every Device where LinkConverter is installed, a valid Token is necessary. If you like to try LinkConverter, grab a test license at
 
-### LICENSEKEY
+[Lumibit Customer Service Portal](https://lumibit.atlassian.net/servicedesk/customer/portals)
 
-For every Device where LinkConverter is installed, a valid License Token is necessary. If you like to try LinkConverter grab a test license at
-
-https://lumibit.atlassian.net/servicedesk/customer/portals
-
-The key will give you `7 days` to test all of LinkConverters features.
+The key will give you `30 days` to test all of LinkConverters features.
 
 ---
 ## KERBEROS
@@ -74,6 +66,15 @@ Notification: `com.apple.KerberosPlugin.ConnectionCompleted`
 
 Reference:  
 https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf
+
+---
+## DRIVELETTERMAPPING
+
+If you like, you can add config rules to map incoming Windows mounted links like `D:\folder` to your choice of UNC Link. This feature is also available via MDM config.  
+
+>Example  
+>D:\folder → \\\\server\folder  
+>The folder can be opened directly.  
 
 ---
 ## MOUNTPOINT
@@ -114,4 +115,4 @@ A full example is available in `./mdm`.
 </plist>
 ```
 
-> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key and customize **`DriveLetterMapping`** Key as you like.
+> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key and customize optional **`DriveLetterMapping`** Keys as you like.
