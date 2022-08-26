@@ -16,7 +16,6 @@ Use Windows style Links on macOS.
     <a href="#DRIVELETTERMAPPING">Drive Letter Mapping</a> • 
     <a href="#APPSTORE">AppStore</a> • 
     <a href="#NONAPPSTORE">Non AppStore</a> • 
-    <a href="#LICENSEKEY">License Key</a> • 
     <a href="#MOUNTPOINT">Mountpoint</a> • 
     <a href="#MDM">MDM</a>
     <!-- <a href="#EULA">Eula</a> -->
