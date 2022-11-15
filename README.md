@@ -117,4 +117,4 @@ A full example is available in `./mdm`.
 </plist>
 ```
 
-> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key and customize optional **`DriveLetterMapping`** Keys as you like.
+> :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key and customize optional **`DriveLetterMapping`** Keys as you like. 
