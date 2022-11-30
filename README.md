@@ -47,7 +47,7 @@ You can get LinkConverter on the AppStore
 ## NONAPPSTORE
 
 Our Enterprise licenses use a license key. Please contact us for pricing and license conditions.  
-For every Device where LinkConverter is installed, a valid token is necessary. If you like to try LinkConverter, grab a test license at
+For every device where LinkConverter is installed, a valid token must be entered. If you like to try LinkConverter, grab a test license at
 
 [Lumibit Customer Service Portal](https://lumibit.atlassian.net/servicedesk/customer/portals)
 
