@@ -118,3 +118,11 @@ A full example is available in `./mdm`.
 ```
 
 > :warning: Please replace **`YOURTOKEN`** in the example `.plist` with your license key and customize optional **`DriveLetterMapping`** Keys as you like. 
+
+### FORCE NOTIFICATIONS
+
+We recommend to enforce the display of notifications at least with `temporary banner` style for your users when using MDM.  
+
+A sampleconfig is available here: `./mdm/forcenotifications.mobileconfig`
+
+Further reference can be found here: https://developer.apple.com/documentation/devicemanagement/notifications/notificationsettingsitem

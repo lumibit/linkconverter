@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>NotificationSettings</key>
+                <array>
+                    <dict>
+                        <key>BundleIdentifier</key>
+                        <string>io.lumibit.mac.linkconverter</string>
+                        <key>AlertType</key>
+                        <integer>1</integer>
+                        <key>NotificationsEnabled</key>
+                        <true/>
+                    </dict>
+                </array>
+                <key>PayloadDisplayName</key>
+                <string>Notifications Payload</string>
+                <key>PayloadIdentifier</key>
+                <string>34B1D67D-56BB-4732-8C29-4FD1D1C9DA74</string>
+                <key>PayloadOrganization</key>
+                <string>Lumibit GmbH Scripting Unit</string>
+                <key>PayloadType</key>
+                <string>com.apple.notificationsettings</string>
+                <key>PayloadUUID</key>
+                <string>34B1D67D-56BB-4732-8C29-4FD1D1C9DA74</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+            </dict>
+        </array>
+        <key>PayloadDisplayName</key>
+        <string>LinkConverterNotifications</string>
+        <key>PayloadIdentifier</key>
+        <string>0DC6968B-C8F7-4955-97D1-6C5DCA65E5A6</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>0DC6968B-C8F7-4955-97D1-6C5DCA65E5A6</string>
+        <key>TargetDeviceType</key>
+        <integer>5</integer>
+    </dict>
+</plist>
