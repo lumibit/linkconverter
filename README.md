@@ -126,3 +126,9 @@ We recommend to enforce the display of notifications at least with `temporary ba
 A sampleconfig is available here: `./mdm/forcenotifications.mobileconfig`
 
 Further reference can be found here: https://developer.apple.com/documentation/devicemanagement/notifications/notificationsettingsitem
+
+### LAUNCH AT LOGIN
+
+We added the ability to set the LaunchAtLogin option with an MDM Profile via Apples ServiceManagementManagedLoginItems with version `1.9.0`
+
+A sampleconfig is available here: `./mdm/ServiceManagementManagedLoginItems.mobileconfig`
