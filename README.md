@@ -129,6 +129,6 @@ Further reference can be found here: https://developer.apple.com/documentation/d
 
 ### LAUNCH AT LOGIN
 
-We added the ability to set the LaunchAtLogin option with an MDM Profile via Apples ServiceManagementManagedLoginItems with version `1.9.0`
+We added the ability to set the LaunchAtLogin option with an MDM Profile via Apples AutoLaunchedApplicationDictionary-managed with version `1.9.0`
 
-A sampleconfig is available here: `./mdm/ServiceManagementManagedLoginItems.mobileconfig`
+A sampleconfig is available here: `./mdm/AutoLaunchedApplicationDictionary-managed.mobileconfig`
