@@ -39,7 +39,7 @@
             </dict>
         </array>
         <key>PayloadDisplayName</key>
-        <string>InvalidLinkConverter</string>
+        <string>LinkConverter</string>
         <key>PayloadIdentifier</key>
         <string>io.lumibit.mac.linkconverter.1B4995E6-326B-42F3-8BF9-4259377576B5</string>
         <key>PayloadType</key>
